@@ -7,6 +7,6 @@
     <title>INI TEST LATIHAN 2</title>
 </head>
 <body>
-    
+    <h1>Ini untuk latihan</h1>
 </body>
 </html>
